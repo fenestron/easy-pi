@@ -54,7 +54,7 @@
     - [Домашнее задание](https://github.com/Sammers21/math_stat_python#readme) - Решение домашних заданий с вопросами
     - [Домашнее задание](https://github.com/Zakhse/mathstat_hse) - Решение дз с появнениями
     - [Домашнее задание](https://github.com/isgulkov/furmach_1941) - Решение дз всех вариантов
-
+- [Прочее](stuff/2course/devnull.md) - Все, что не попало на главную
 
 ## 3 курс
 
