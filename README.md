@@ -39,6 +39,9 @@
 
 ## 2 курс
 
+- Конструирование программного обеспечения
+    - [Тест Паттерны проектирования](http://www.quizful.net/test/design-patterns-gof) - Подготовка к тесту по Паттернам Проектирования
+    - [Тест Паттерны проектирования (Java)](http://www.quizful.net/test/ood_patterns) - Подготовка к тесту по Паттернам Проектирования
 - Статистические и эмпирические методы компьютинга
     - [Домашнее задание](https://github.com/Sammers21/math_stat_python#readme)
     - [Домашнее задание](https://github.com/Zakhse/mathstat_hse)
