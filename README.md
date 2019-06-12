@@ -39,6 +39,8 @@
     - [ANTLR Delphi](https://github.com/isgulkov/antlr-delphi) - Компилятор для подмножества языка Delphi
     - [ANTLR Visual Basic](https://github.com/isgulkov/dvoriansky1337) - Компилятор для подмножества языка Visual Basic
     - [ANTLR Java](https://github.com/Sammers21/DZ-ANTLR-MINIJAVA) - Компилятор для подмножества языка Java
+- Компьютерный практикум по алгебре в среде Matlab / Компьютерный практикум по математическому анализу в среде Matlab
+    - [Коды задач](https://github.com/parkanaur/matlab_projects) - Большинство листингов по задачам
 
 
 ## 2 курс
@@ -60,6 +62,8 @@
 
 - Обеспечение качества и тестирование
     - [Решение экзамена](https://zakhse.github.io/hse-testing-solver/) - Сайт для решения экзаменационных задач
+- Экосистемы интернета вещей
+    - [Коды задач](https://github.com/parkanaur/hse-se-iote-course) - Листинки для загрузки (проверяйте распиновку)
 - [Прочее](stuff/3course/devnull.md) - Все, что не попало на главную
 
 ## 4 курс
