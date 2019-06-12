@@ -37,6 +37,7 @@
     - [ANTLR Scala](https://github.com/isgulkov/antlr-scala) - Компилятор для подмножества языка Scala
     - [ANTLR Delphi](https://github.com/isgulkov/antlr-delphi) - Компилятор для подмножества языка Delphi
     - [ANTLR Visual Basic](https://github.com/isgulkov/dvoriansky1337) - Компилятор для подмножества языка Visual Basic
+    - [ANTLR Java](https://github.com/Sammers21/DZ-ANTLR-MINIJAVA) - Компилятор для подмножества языка Java
 
 
 ## 2 курс
