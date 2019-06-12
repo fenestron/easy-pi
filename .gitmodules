@@ -1,0 +1,6 @@
+[submodule "stuff/1course/matlab_projects"]
+	path = stuff/1course/matlab_projects
+	url = https://github.com/parkanaur/matlab_projects
+[submodule "stuff/3course/hse-se-iote-course"]
+	path = stuff/3course/hse-se-iote-course
+	url = https://github.com/parkanaur/hse-se-iote-course
