@@ -26,6 +26,7 @@
     - [Сайт для подготовки](http://podbel.ru/)
 - Алгебра
     - [Подготовка к экзамену](https://github.com/isgulkov/chernishew1488) - Доказательства и определения для подготовки к экзамену
+    - [Теория к коллоквиуму](https://github.com/Sofiika/AlgebraKollok)
 - Летняя практика 
     - [Часть C++](https://github.com/isgulkov/arz_ultimate)
     - [ANTLR Turing](https://github.com/isgulkov/antlr-turing)
