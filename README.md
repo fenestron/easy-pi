@@ -1,6 +1,6 @@
 # easy-pi
 
-В этом репозитории собраны ссылки на полезные ресурсы для успешного обучения на на Бакалаврской программе «Программная инженерия» НИУ ВШЭ.
+В этом репозитории собраны ссылки на полезные ресурсы для успешного обучения на Бакалаврской программе «Программная инженерия» НИУ ВШЭ.
 
 Добавляйте свои материалы и помогайте студентам!
 
@@ -31,7 +31,7 @@
     - [Теория к коллоквиуму](https://github.com/Sofiika/AlgebraKollok) - Определения и доказательства для коллоквиума
 - Летняя практика 
     - [Часть C++](https://github.com/isgulkov/arz_ultimate) - Материал для C++ части от АРЗ
-    - [ANTLR Turing](https://github.com/isgulkov/antlr-turing) - Компилятор для подмножества языка Swift
+    - [ANTLR Turing](https://github.com/isgulkov/antlr-turing) - Компилятор для подмножества языка Turing
     - [ANTLR Swift](https://github.com/isgulkov/antlr-swift) - Компилятор для подмножества языка Swift
     - [ANTLR Swift](https://github.com/isgulkov/antlr-swift2) - Компилятор для подмножества языка Swift
     - [ANTLR Scala](https://github.com/isgulkov/antlr-scala) - Компилятор для подмножества языка Scala
