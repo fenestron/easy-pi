@@ -20,6 +20,7 @@
 - [Заказ справок](https://www.hse.ru/ba/se/references) - Информация, заказ справок, проверка статуса
 - [Отчет антиплагиата](stuff/common/antiplagiat.md) - Просмотр полного отчета антиплагиата
 - [Шаблон презентации](https://docs.google.com/presentation/d/1oQJ7Ij5Vqywhk7p6hViTbHglCBDOtKASvqp6Yh8qMRw/edit?usp=sharing) - Шаблон презентации Google Slides на русском языке
+- [wiki ФКН](http://wiki.cs.hse.ru) - wiki ФКН. В основном курсы ПМИ, есть и ПИ. Каждый год обновляется
 
 
 ## 1 курс
