@@ -58,6 +58,8 @@
     - [Домашнее задание](https://github.com/Sammers21/math_stat_python#readme) - Решение домашних заданий с вопросами
     - [Домашнее задание](https://github.com/Zakhse/mathstat_hse) - Решение дз с появнениями
     - [Домашнее задание](https://github.com/isgulkov/furmach_1941) - Решение дз всех вариантов
+- Операционные системы
+    - [Семинары и лекции](https://github.com/hseos/hseos-course)
 - [Прочее](stuff/2course/devnull.md) - Все, что не попало на главную
 
 
