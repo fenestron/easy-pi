@@ -63,6 +63,7 @@
     - [Домашнее задание](https://github.com/Zakhse/mathstat_hse) - Решение дз с появнениями
     - [Домашнее задание](https://github.com/isgulkov/furmach_1941) - Решение дз всех вариантов
 - Операционные системы
+    - [Материалы](https://github.com/hsepi/os) - Материалы для подготовки
     - [Семинары и лекции](https://github.com/hseos/hseos-course)
 - [Прочее](stuff/2course/devnull.md) - Все, что не попало на главную
 

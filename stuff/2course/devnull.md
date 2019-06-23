@@ -21,8 +21,6 @@
     - [Папка материалов](https://yadi.sk/d/E8hkUUr13MjJk6)
 - Матстат
     - [Папка материалов](https://yadi.sk/d/UMxUDLUu3MnMhE)
-- ОСи
-    - [Папка материалов](https://yadi.sk/d/4os6b6Sk3QyaxH)
 - Экономика
     - [Папка материалов](https://yadi.sk/d/mQjfKHod3Qyb9H)
 
