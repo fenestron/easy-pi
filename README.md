@@ -75,7 +75,7 @@
 - Экосистемы интернета вещей
     - [Коды задач](https://github.com/parkanaur/hse-se-iote-course) - Листинги для загрузки (проверяйте распиновку)
 - Анализ данных (Data Analysis)
-    - [Билеты к экзамену](https://docs.google.com/document/d/1TZpVm2fqIMmVlWbbmDld0NB5aWdQApW5_yYjcm09NXU/edit#heading=h.jvj1vd211bck) - Экзамен 2019 более-менее понятным языком
+    - [Билеты к экзамену](https://docs.google.com/document/d/1TZpVm2fqIMmVlWbbmDld0NB5aWdQApW5_yYjcm09NXU/edit#) - Экзамен 2019 более-менее понятным языком
 - [Прочее](stuff/3course/devnull.md) - Все, что не попало на главную
 
 
