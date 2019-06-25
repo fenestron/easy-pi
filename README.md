@@ -60,7 +60,7 @@
     - [Методичка](https://yadi.sk/i/pV1jlAg93G94te) - Методичка по всему курсу ТВиМС
 - Статистические и эмпирические методы компьютинга
     - [Домашнее задание](https://github.com/Sammers21/math_stat_python#readme) - Решение домашних заданий с вопросами
-    - [Домашнее задание](https://github.com/Zakhse/mathstat_hse) - Решение дз с появнениями
+    - [Домашнее задание](https://github.com/Zakhse/mathstat_hse) - Решение дз с пояснениями
     - [Домашнее задание](https://github.com/isgulkov/furmach_1941) - Решение дз всех вариантов
 - Операционные системы
     - [Материалы](https://github.com/hsepi/os) - Материалы для подготовки
@@ -73,7 +73,9 @@
 - Обеспечение качества и тестирование
     - [Решение экзамена](https://zakhse.github.io/hse-testing-solver/) - Сайт для решения экзаменационных задач
 - Экосистемы интернета вещей
-    - [Коды задач](https://github.com/parkanaur/hse-se-iote-course) - Листинки для загрузки (проверяйте распиновку)
+    - [Коды задач](https://github.com/parkanaur/hse-se-iote-course) - Листинги для загрузки (проверяйте распиновку)
+- Анализ данных (Data Analysis)
+    - [Билеты к экзамену](https://docs.google.com/document/d/1TZpVm2fqIMmVlWbbmDld0NB5aWdQApW5_yYjcm09NXU/edit#heading=h.jvj1vd211bck) - Экзамен 2019 более-менее понятным языком
 - [Прочее](stuff/3course/devnull.md) - Все, что не попало на главную
 
 
