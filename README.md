@@ -21,7 +21,6 @@
 - [Заказ справок](https://www.hse.ru/ba/se/references) - Информация, заказ справок, проверка статуса
 - [Отчет антиплагиата](stuff/common/antiplagiat.md) - Просмотр полного отчета антиплагиата
 - [Шаблон презентации](https://docs.google.com/presentation/d/1oQJ7Ij5Vqywhk7p6hViTbHglCBDOtKASvqp6Yh8qMRw/edit?usp=sharing) - Шаблон презентации Google Slides на русском языке
-- [wiki ФКН](http://wiki.cs.hse.ru) - wiki ФКН. В основном курсы ПМИ, есть и ПИ. Каждый год обновляется
 
 
 ## 1 курс
@@ -92,3 +91,8 @@
 - [Сайт выпускников](https://alumni.hse.ru/) - Сайт для выпускников ВШЭ
 - [Заказать пропуск](https://alumni.hse.ru/propusk_hse) - Вся информация по пропускам для выпусников
 - [Магистратура ВШЭ](https://ma.hse.ru/) - Сайт для абитуриентов магистратуры
+
+
+## Другое 
+- [wiki ФКН](http://wiki.cs.hse.ru) - wiki ФКН. В основном курсы ПМИ, есть и ПИ. Каждый год обновляется
+- [Лекции ПМИ](https://github.com/hse-ami/lectures) - Очень качественные лекции некоторых курсов на ПМИ
