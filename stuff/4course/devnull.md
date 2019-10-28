@@ -20,3 +20,5 @@
     - [Папка материалов](https://yadi.sk/d/Pny6ELsr9XSlUg)
 - НИС Ресурсно - эффективные комбинированные алгоритмы
     - [Папка материалов](https://yadi.sk/d/EFVoQwDIWeGOiQ)
+- Agile Methodology and Project Management
+    - [Проекты команд](agile.md)
