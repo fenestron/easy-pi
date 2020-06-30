@@ -10,3 +10,5 @@
 - Дискретная математика
     - [Запись консультации](https://yadi.sk/d/PTss14ANqW2r6)
 
+- Метапридметные ссылки
+    - [Небольшое руководство по Latex и набор полезных ссылок](https://vk.com/@luke_notskywalker-latex-kak-ispolzovat-poleznye-ssylki)
