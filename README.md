@@ -84,6 +84,7 @@
 - Выпускная Квалификационная Работа
     - [FAQ](stuff/4course/VKR.md) - Вопросы и ответы по ВКР
     - [Поиск ВКР](https://www.hse.ru/edu/vkr/) - База данных всех ВКР НИУ ВШЭ
+    - [LaTeX-шаблон](https://github.com/viafanasyev/bachelor-thesis-template) - Легко настраиваемый LaTeX-шаблон для ВКР
 - [Прочее](stuff/4course/devnull.md) - Все, что не попало на главную
 
 
